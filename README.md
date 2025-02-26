@@ -24,8 +24,7 @@ For ngrok:
 Go to the server/ directory:Authenticate ngrok:
 
     cd Server/
-    ./ngrok auth <your-auth-key>python3 
-    Gui_phishing_tool.py
+    ./ngrok auth <your-auth-key>
 
 
 For localxpose: Similar to ngrok, configure the auth key for localxpose as well.
